@@ -1,0 +1,23 @@
+MFT Simulation :
+Enter total memory size: 1000
+Enter partiton size: 12
+Enter number of processes: 4
+Memory divided into 83 partitions
+Enter size of Process 1: 50
+Process 1 too large for fixed partition.
+Enter size of Process 2: 25
+Process 2 too large for fixed partition.
+Enter size of Process 3: 100
+Process 3 too large for fixed partition.
+Enter size of Process 4: 2
+Process 4 allocated.
+
+MVT Simulation :
+Enter total memory size : 2000
+Enter number of processes : 3
+Enter size of Process 1 : 100
+Process 1 allocated.
+Enter size of Process 2 : 200
+Process 2 allocated.
+Enter size of Process 3 : 600
+Process 3 allocated.
